@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Profile information
 name: srmonda
 title: Srmonda's blog
@@ -9,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "srmonda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
-facebook: "https://www.facebook.com/kinhi.tumadam"
+facebook: "kinhi.tumadam"
 twitter: #Add your Twitter
 google-plus: #Add your Google+
 github: #Add your Github
