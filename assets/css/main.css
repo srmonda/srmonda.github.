@@ -1043,3 +1043,6 @@ img.post-image, img.page-img {
     display: block;
   }
 }
+button:hover {
+								cursor: pointer;
+}
